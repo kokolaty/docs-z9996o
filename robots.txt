@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-vas9u1.date-me.pro/sitemap.xml
